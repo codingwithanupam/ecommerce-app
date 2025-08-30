@@ -11,6 +11,7 @@ function App() {
     <>
       <MyButtons />
       <MyButtons />
+      <div>hello india</div>
     </>
   );
 }
