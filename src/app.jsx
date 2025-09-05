@@ -2,8 +2,9 @@ import { useState } from "react";
 
 function App() {
   let isLogeIn = false;
-  let a=10;
-  let b=20;
+  let a = 10;
+  let b = 20;
+  let c = 10;
   // let content;
   // if (isLogeIn) content = <Admin />;
   // else content = <User />;
