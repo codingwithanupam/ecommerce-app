@@ -1,5 +1,6 @@
 import C2 from "./c2.jsx";
 function C1() {
+  let a = 10;
   return <C2 />;
 }
 
