@@ -5,6 +5,7 @@ function App() {
   let a = 10;
   let b = 20;
   let c = 10;
+  let d = 40;
   // let content;
   // if (isLogeIn) content = <Admin />;
   // else content = <User />;
